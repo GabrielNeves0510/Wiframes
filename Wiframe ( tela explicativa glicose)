@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Informações sobre índice de glicose alta</title>
+    <link rel="stylesheet" type="text/css" href="teste.CSS" media="screen" />
+  </head>
+  <body>
+    <h1>Informações sobre índice de glicose alta</h1>
+    <div class="info">
+      <h2>O que é índice de glicose ou glicemia?</h2>
+      <p>A glicemia pode ser realizada após jejum ou após alimentação e os valores esperados são diferentes. A glicose alterada pode ser indicativo de riscos para a saúde então, na vigência de um valor alterado no seu exame de sangue, é importante a repetição do mesmo seguindo regras claras de jejum ou sobrecarga (ingesta de glicose) para garantir o diagnóstico preciso.</p>
+    </div>
+    <div class="info">
+      <h2>Quais são os sintomas de índice de glicose alta?</h2>
+      <ul>
+       <li>Excesso de sede;</li>
+<li>Excesso de urina;</li>
+<li>Fome excessiva;</li>
+<li>Emagrecimento repentino sem redução da ingesta de calorias</li>
+<li>Cansaço e fadiga frequentes;</li>
+<li>Visão embaçada;</li>
+<li>Pele seca;</li>
+<li>Dor de cabeça;</li>
+<li>Dificuldade em cicatrização;</li>
+<li>Náuseas e vômitos frequentes</li>
+<li>Tontura</li>
+      </ul>
+    </div>
+    <div class="info">
+      <h2>Como controlar o índice de glicose?</h2>
+      <ol>
+        <h3>1. PREENCHA METADE DO SEU PRATO COM VEGETAIS SEM AMIDO</h3>
+          <p>Nesta lista estão incluídos: pepino, vagem, ervilha, abobrinha, aspargos, folhas verdes, pimentas, couve-flor, brócolis, cebola, alho, alho-poró, entre outros.
+          Uma porção de 1/2 copo destes legumes cozidos ou um copo dos mesmos crus tem cerca de 25 calorias e 5 gramas de carboidrato por porção.</p>
+          <p>Selecione de uma variedade diferente para cada refeição e, se possível, opte pelos orgânicos, sejam eles frescos, congelados ou enlatados. Fique longe daqueles que têm molhos e condimentos porque eles vão adicionar gordura e sódio ao seu prato.</p>
+    <h3>2.TENHA HORÁRIOS E QUANTIDADES CONSISTENTES PARA AS REFEIÇÕES</h3>
+     <p> A variação drástica de tempos entre as refeições e das quantidades que você come dificulta ainda mais o controle da produção de açúcar pelo organismo e causa picos de concentração no sangue. Pessoas que já tomam medicamento para baixar a glicose no sangue como a insulina, que tem o potencial de causar hipoglicemia, não devem nunca pular uma refeição.</p>
+     <h3>3.EXERCITE-SE!</h3>
+     <p>A Associação Americana de Diabetes recomenda 30 minutos de atividade aeróbica diariamente, e atividades de resistência (empurrar, puxar, levantar) duas ou três vezes por semana para ajudar a baixar a glicose no sangue.
+
+      <p>De acordo com especialistas, fazer exercícios físicos é indispensável para pessoas com defasagem de insulina e alto teor glicêmico. Os benefícios dos exercícios para pessoas pré-diabéticas são:
+      <ul>
+      <li>Reduz os níveis de açúcar no sangue;</li>
+      <li>Ajuda o corpo a se tornar mais sensível à insulina;</li>
+      <li>Diminui o colesterol total e triglicérides e aumenta o HDL (bom colesterol);</li>
+      <li>Diminui a pressão arterial;</li>
+      <li>Promove a perda de peso e ajuda a manter o peso perdido;</li>
+      <li>Aumenta a força, resistência e flexibilidade;</li>
+     <li> Aumenta a energia e a sensação de bem-estar.</li>
+    </ul>
+     <h3>4.DURMA BEM E POR TEMPO ADEQUADO</h3>
+     <p>Dormir pouco ou ter um sono de má qualidade pode perturbar o equilíbrio dos hormônios, inclusive a produção de insulina. A falta de sono também pode levar ao aumento do apetite, maior índice de açúcar no sangue e maior acúmulo de gordura na área da cintura.</p>
+      <p>Pesquisadores da Holanda descobriram que uma única noite de privação de sono pode diminuir a sensibilidade à insulina em quase 25%.</p>
+      <p>Uma boa dica é encontrar uma rotina de sono que funcione para você. E se você tem problemas para dormir, converse com seu médico sobre seus padrões de sono para ver se eles merecem uma avaliação profissional.</p>
+        <div class="info">
+      </ol>
+    </div>
+  </body>
+</html>
