@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Informações sobre índice de Colesterol alto</title>
+    <link rel="stylesheet" type="text/css" href="style.CSS" media="screen" />
+  </head>
+  <body>
+    <h1>Informações sobre índice de Colesterol Alto</h1>
+    <div class="info">
+      <h2>O que é índice de Colesterol?</h2>
+      <p>O colesterol é um tipo de gordura presente na estrutura das membranas celulares, fundamental para o bom funcionamento do nosso organismo e está presente no:</p>
+        <ul>
+    <li>Fígado;</li>
+    <li>Nervos;</li>
+    <li>Coração;</li>
+    <li>Intestinos;</li>
+    <li>Pele;</li>
+    <li>Cérebro;</li>
+    <li>Músculos</li>
+        </ul>
+    </div>
+    <div class="info">
+      <h2>Quais são os sintomas de índice de Colesterol alto?</h2>
+      <p>
+        O colesterol total alto não apresenta nenhum sintoma específico, por isso é importante ficar atento e realizar o exame de sangue para medir periodicamente os níveis de colesterol total.
+         Esse cuidado deve ser adotado principalmente pelas pessoas que estejam acima do peso ideal, com uma alimentação desregulada, consumo exagerado de gorduras e/ou são sedentárias.
+      </p>
+    </div>
+    <div class="info">
+      <h2>Como controlar o índice de Colesterol?</h2>
+      <ul>
+        <li>Reduzir o consumo de bebidas alcoólicas;</li>
+           <li> Evitar a obesidade e o sobrepeso; </li>
+        <li>Reduzir o consumo de açúcares simples;</li>
+        <li> Reduzir o consumo de carboidratos;</li>
+        <li> Praticar exercícios físicos com uma frequência de pelo menos 3 a 5 vezes por semana;</li>
+        <li> Consumir gorduras poli-insaturadas  ricas em ômega-3 (. Elas estão presentes nos peixes, como por exemplo: salmão e sardinha).</li>
+      </ul>
+       </p>
+        <div class="info">
+      </ol>
+    </div>
+  </body>
+</html>
