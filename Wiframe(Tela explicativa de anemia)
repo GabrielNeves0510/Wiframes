@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Informações sobre índice de Colesterol alto</title>
+    <link rel="stylesheet" type="text/css" href="anemia.CSS" media="screen" />
+  </head>
+  <body>
+    <h1>Informações sobre Anemia</h1>
+    <div class="info">
+      <h2>O que é anemia?</h2>
+      <p>As anemias podem ser causadas por deficiência de vários nutrientes como ferro, zinco, vitamina B12 e proteínas. Porém, a anemia causada por deficiência de ferro, denominada anemia ferropriva, é muito mais comum que as demais (estima-se que 90% das anemias sejam causadas por carência de ferro).</p> 
+      <p>O ferro é um nutriente essencial para a vida e atua principalmente na fabricação das células vermelhas do sangue e no transporte do oxigênio para todas as células do corpo.</p>
+    </div>
+    <div class="info">
+      <h2>Quais são os sintomas da anemia?</h2>
+      <p>Os sinais e sintomas da carência de ferro são inespecíficos, necessitando-se de exames laboratoriais de sangue para que seja confirmado o diagnóstico de anemia ferropriva.</p>
+      <p> Os principais sinais e sintomas são: cansaço generalizado, falta de apetite, palidez de pele e mucosas (parte interna do olho, gengivas), menor disposição para o trabalho, dificuldade de aprendizagem nas crianças, apatia (crianças muito “paradas”).</p>
+    </div>
+    <div class="info">
+      <h2>Como prevenir a anemia?</h2>
+     <p> Alimentação bem variada, rica em alimentos que possuam ferro ou que sejam enriquecidos com ele são essenciais para prevenir a doença. As melhores fontes naturais de ferro são os alimentos de origem animal: fígado e carne de qualquer animal.</p> 
+        <p>Entre os alimentos de origem vegetal: leguminosas (feijão, grão-de-bico, fava, lentilha e ervilha), os grãos integrais ou enriquecidos, nozes, castanhas, rapadura, açúcar mascavo e hortaliças (couve, agrião, taioba, salsa). Outra opção são os alimentos enriquecidos com ferro como farinhas de trigo e milho, cereais matinais, entre outros.
+      Para ajudar na absorção do ferro dos alimentos é recomendado o consumo de alimentos com alto teor de vitamina C, como: acerola, abacaxi, goiaba, kiwi, laranja, limão, pimentão, repolho e tomate na mesma refeição.</p>
+       </p>
+        <div class="info">
+      </ol>
+    </div>
+  </body>
+</html>
